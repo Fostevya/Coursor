@@ -1,1 +1,1 @@
-# Coursor
+# Cursor
